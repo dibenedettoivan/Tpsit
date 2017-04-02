@@ -1,0 +1,7 @@
+<!DOCTYPE siti [
+<!ELEMENT siti (nome+, url+, categoria+, ranking+)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT ranking (#PCDATA)>
+]>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<?xml-stylesheet type="text/css" href="stile.css"?>
+<!DOCTYPE link SYSTEM "doc.dtd">
+<siti>
+	<link>
+		<nome>YouTube</nome>
+		<url>https://www.youtube.com/</url>
+		<descrizione>Sito multimediale</descrizione>
+		<categoria>Entertainment</categoria>
+		<ranking>5</ranking>
+	</link>
+	<link>
+		<nome>FaceBook</nome>
+		<url>https://www.facebook.com/</url>
+		<descrizione>Sito di social network</descrizione>
+		<categoria>Social</categoria>
+		<ranking>4.5</ranking>
+	</link>
+	<link>
+		<nome>Wikipedia</nome>
+		<url>https://it.wikipedia.org/wiki/Pagina_principale</url>
+		<descrizione>Enciclopedia online</descrizione>
+		<categoria>Enciclopedia</categoria>
+		<ranking>3.5</ranking>
+	</link>
+	<link>
+		<nome>Wiki Ubuntu</nome>
+		<url>http://wiki.ubuntu-it.org/</url>
+		<descrizione>Enciclopedia del S.O. Ubuntu</descrizione>
+		<categoria>Software</categoria>
+		<ranking>5</ranking>
+	</link>
+	<link>
+		<nome>Hackathon Italia</nome>
+		<url>https://www.hackathonitalia.com/</url>
+		<descrizione>Sito dedicato alle maratone di programmazione</descrizione>
+		<categoria>Programmazione</categoria>
+		<ranking>3.2</ranking>
+	</link>
+	<link>
+		<nome>Vw Italia Forum</nome>
+		<url>http://www.vwitalia.it/forum/</url>
+		<descrizione>Forum di scambio informazioni su auto del gruppo tedesco</descrizione>
+		<categoria>Forum</categoria>
+		<ranking>4.2</ranking>
+	</link>
+	<link>
+		<nome>Microsoft Virtual Academy</nome>
+		<url>https://mva.microsoft.com/</url>
+		<descrizione>Learning del S.O. Windows</descrizione>
+		<categoria>Learning</categoria>
+		<ranking>2.8</ranking>
+	</link>
+</siti>

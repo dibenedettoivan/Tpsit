@@ -1,0 +1,7 @@
+body {
+	background-color: gray;
+	width: 100%;
+}
+table {
+	text-transform: capitalize;
+}
